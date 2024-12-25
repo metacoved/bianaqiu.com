@@ -1,0 +1,7 @@
+{
+  "name": "bianaqiu.com",
+  "version": "1.0.0",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./style.css -o ./dist.css --watch"
+  }
+}
